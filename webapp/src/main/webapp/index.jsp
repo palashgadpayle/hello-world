@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Registration For Newgen Softech Automatically</h1>
+    <h1>New Registration For Newgen Softech Automatically without any doubt</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
